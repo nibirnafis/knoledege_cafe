@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co.com/Hqvh1xc/pic-1.jpg",
+      "title": "The Art of Web Design",
+      "author": "John Doe",
+      "author_img": "https://i.ibb.co.com/QYt1W1H/face-1.png",
+      "posted_date": "2024-12-10",
+      "reading_time": 5,
+      "hashtags": ["#WebDevelopment", "#Design", "#JavaScript"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co.com/SNbfGLR/pic-4.jpg",
+      "title": "JavaScript Tips for Beginners",
+      "author": "Jane Smith",
+      "author_img": "https://i.ibb.co.com/Yj60Wvr/face-2.png",
+      "posted_date": "2024-11-25",
+      "reading_time": 7,
+      "hashtags": ["#JavaScript", "#Coding", "#WebDev"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co.com/y5hP8nr/pic-5.jpg",
+      "title": "Building Responsive Websites",
+      "author": "Alex Johnson",
+      "author_img": "https://i.ibb.co.com/BrXMvMp/face-3.png",
+      "posted_date": "2024-12-01",
+      "reading_time": 6,
+      "hashtags": ["#CSS", "#HTML", "#ResponsiveDesign"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co.com/jhhj28f/pic-3.jpg",
+      "title": "Understanding APIs",
+      "author": "Chris Lee",
+      "author_img": "https://i.ibb.co.com/PDQ9cfX/face-4.png",
+      "posted_date": "2024-10-20",
+      "reading_time": 4,
+      "hashtags": ["#APIs", "#Backend", "#WebDevelopment"]
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co.com/N9BMGQN/pic-2.jpg",
+      "title": "Mastering Frontend Tools",
+      "author": "Taylor Brown",
+      "author_img": "https://i.ibb.co.com/SKsppMm/face-5.png",
+      "posted_date": "2024-12-15",
+      "reading_time": 8,
+      "hashtags": ["#Frontend", "#React", "#JavaScript"]
+    }
+  ]
+  
